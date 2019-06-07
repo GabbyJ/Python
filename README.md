@@ -10,3 +10,5 @@ Learning Python
 <p>I built a guessing game, an exponent function, and a translator today. I think I will add to these little projects I've been building in the lesson to make them nicer then post them here.</p>
 <p><strong>June 5, Wednesday</strong></p>
 <p>Today I improved my calculator a bit more</p>
+<p><strong>June 6, Thursday</strong></p>
+<p>Today I created a guessing game. It has room for improvement, but it's a decent first draft</p>
