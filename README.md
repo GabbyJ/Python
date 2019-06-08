@@ -12,3 +12,6 @@ Learning Python
 <p>Today I improved my calculator a bit more</p>
 <p><strong>June 6, Thursday</strong></p>
 <p>Today I created a guessing game. It has room for improvement, but it's a decent first draft</p>
+<p><strong>June 7, Friday</strong></p>
+<p>Today I created a translator to a giraffe language. Yes, I said giraffe. Another a decent first draft</p>
+<p>They say it's better to build something and improve it later than simply not build anything because you don't know enough, so that's what I'm doing</p>
