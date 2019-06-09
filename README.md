@@ -16,4 +16,6 @@ Learning Python
 <p>Today I created a translator to a giraffe language. Yes, I said giraffe. Another a decent first draft</p>
 <p>They say it's better to build something and improve it later than simply not build anything because you don't know enough, so that's what I'm doing</p>
 <p><strong>June 8, Saturday</strong></p>
-<p>Today I learned about classes and objects and object functions. With this new information I created a multiple choice quiz. Once again, a good start, but can be improved</p>
+<p>Today I learned about classes, objects, object functions, inheriting classes, and using python in the terminal. With this new information I created a multiple choice quiz. Once again, a good start, but can be improved</p>
+<p>I've officially finished that Youtube video I started in the beginning of the week. It gave a a lot of useful information</p>
+<p>Think I'm going to focus on project based learning this time and look into projects to do to enforce what I've learned and advance my knowledge through useful situations</p>
