@@ -1,3 +1,7 @@
+# Add more congrats/failed options (if/else)
+# Update/add questions (strings)
+# Turn scores into percentages (math, using variables)
+
 class Question:
     def __init__(self, prompt, answer):
         self.prompt = prompt
