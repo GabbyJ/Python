@@ -19,3 +19,9 @@ Learning Python
 <p>Today I learned about classes, objects, object functions, inheriting classes, and using python in the terminal. With this new information I created a multiple choice quiz. Once again, a good start, but can be improved</p>
 <p>I've officially finished that Youtube video I started in the beginning of the week. It gave a a lot of useful information</p>
 <p>Think I'm going to focus on project based learning this time and look into projects to do to enforce what I've learned and advance my knowledge through useful situations</p>
+<p><strong>June 9, Sunday</strong></p>
+<p>Worked on improving the quiz. I was creating a grading system but got stuck on an unknown problem with my if/else statements.</p>
+<p>Rented 3 Javascript books from the library and will get back into that soon as well</p>
+<p><strong>June 10, Monday</strong></p>
+<p>Kept working on the grading system today. Not sure what's wrong. Bought 2 Python books today and hopefully they'll help me with this current problem and move me forward overall.</p>
+<p>The 2 books I got were Python 3 the Hard Way and Python Crash Course. Hopefully they work well for me.</p>
