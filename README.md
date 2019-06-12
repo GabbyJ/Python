@@ -25,3 +25,8 @@ Learning Python
 <p><strong>June 10, Monday</strong></p>
 <p>Kept working on the grading system today. Not sure what's wrong. Bought 2 Python books today and hopefully they'll help me with this current problem and move me forward overall.</p>
 <p>The 2 books I got were Python 3 the Hard Way and Python Crash Course. Hopefully they work well for me.</p>
+<p><strong>June 11, Tuesday</strong></p>
+<p>As Ice Cube said, today was a good day. I FINALLY figured out the grading system then I also fixed the user input so that it will accept multiple versions of the right answer. Since I was using a class instead of if/else statements, that was a whole adventure in itself. But I figured it out after a lot of googling and experiementing. Tomorrow I will work on showing people their right and wrong answers.</p>
+<p>I gave people a link to test out the test and nobody could break it! That's always good. Their feedback was just that they just wanted to know their answers</p>
+<p>My Python books came today too, so that adds to the good day!</p>
+<p>I'm quite happy with my progress so far in Python. Makes me not want to go back to Javascipt just yet lol.</p>
