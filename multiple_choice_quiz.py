@@ -5,6 +5,10 @@
 # Make more interactive
     # Obvious place to put answer (update input)√
     # Add right/wrong to each question (if/else)
+# Make either easy, medium, hard levels OR Pick 1 of 3 topics (2nd class or if/else, while)
+# Play again option (while)
+    # Yes = shows answers(?), start again
+    # No = show answers
 
 
 class Question:
