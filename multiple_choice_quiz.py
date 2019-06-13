@@ -2,13 +2,13 @@
 # Update/add questions (strings) √
 # Turn scores into percentages (math) √
 # Allow multiple versions of the answer √
-# Make more interactive
-    # Obvious place to put answer (update input)√
-    # Add right/wrong to each question (if/else)
+# Make more interactive √
+    # Obvious place to put answer (update input) √
+    # Add right/wrong to each question (if/else) √
 # Make either easy, medium, hard levels OR Pick 1 of 3 topics (2nd class or if/else, while)
-# Play again option (while)
-    # Yes = shows answers(?), start again
-    # No = show answers
+# Play again option (while) √
+
+import math
 
 
 class Question:
@@ -55,37 +55,48 @@ answer_options =[
     ["b", "billy joel"]
 ]
 
-import math
-
 
 def run_test(questions):
-    score = 0
-    count = 0
-    for question in questions:
-        print(question.prompt)
-        answer = input("Your answer: ").lower()
-        if answer in answer_options[count]:
-            score += 1
-        count += 1
+        score = 0
+        count = 0
+        for question in questions:
+            print(question.prompt)
+            answer = input("Your answer: ").lower()
+            if answer in answer_options[count]:
+                score += 1
+                print("Correct!")
+            else:
+                print("Wrong. The answer was " + str(answer_options[count][1]).title())
+            count += 1
 
-    def determine_grade(scores):
-        if scores >= 90 and scores <= 100:
-            print("\nYou got an A! " + str(scores) + "%" + "\nGreat job!")
-        elif scores >= 80 and scores <= 89:
-            print("\nYou got a B! " + str(scores) + "%" + "\nGood job!")
-        elif scores >= 70 and scores <= 79:
-            print("\nYou got a C. " + str(scores) + "%" + "\nC's get degrees too...")
-        elif scores >= 60 and scores <= 69:
-            print("\nYou got a D. " + str(scores) + "%" + "\nBetter luck next time!")
-        elif scores >= 50 and scores <= 59:
-            print("\nYou got an E. " + str(scores) + "%" + "\nEhh... you kind of suck at this. You should learn more random music facts.")
-        else:
-            print("\nF?! How? " + str(scores) + "%" + "\nDo you just hate music?!")
+        def determine_grade(scores):
+            if scores >= 90 and scores <= 100:
+                print("\nYou got an A! " + str(scores) + "%" + "\nGreat job!")
+            elif scores >= 80 and scores <= 89:
+                print("\nYou got a B! " + str(scores) + "%" + "\nGood job!")
+            elif scores >= 70 and scores <= 79:
+                print("\nYou got a C. " + str(scores) + "%" + "\nC's get degrees too...")
+            elif scores >= 60 and scores <= 69:
+                print("\nYou got a D. " + str(scores) + "%" + "\nBetter luck next time!")
+            elif scores >= 50 and scores <= 59:
+                print("\nYou got an E. " + str(scores) + "%" + "\nEhh... you kind of suck at this. You should learn more random music facts.")
+            else:
+                print("\nF?! How? " + str(scores) + "%" + "\nDo you just hate music?!")
 
-    scores = float((score * 100) / len(questions))
-    scores = math.floor(float(scores))
-    determine_grade(scores)
+        scores = float((score * 100) / len(questions))
+        scores = math.floor(float(scores))
+        determine_grade(scores)
 
 
-print("\nMUSIC TRIVIA GAME\nTest your musical knowledge.\n")
-run_test(questions)
+def main():
+    while True:
+        print("\nMUSIC TRIVIA GAME\nTest your musical knowledge.\n")
+        run_test(questions)
+        play_again = input("\nPlay again? (y/n): ")
+        affirmative = ['yes', 'yeah', 'yup', 'y', 'yea']
+        if play_again.lower() not in affirmative:
+            break
+    print("Thanks for playing!")
+
+
+main()
