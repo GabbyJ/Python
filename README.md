@@ -31,3 +31,5 @@ Learning Python
 <p>My Python books came today too, so that adds to the good day!</p>
 <p>I'm quite happy with my progress so far in Python. Makes me not want to go back to Javascipt just yet lol.</p>
 <p><strong><i>1:12 AM update (kind of tomorrow, but still today):</i></strong> I read through the first 20 pages of <i>Learn Python 3 the Hard Way</i>. It's quite funny. He talks directly to you and talks back to you because he knows the crazy stuff you're thinking already lol. It  definitely makes the books engaging. Excited to see what I get from it.</p>
+<p><strong>June 12, Wednesday</strong></p>
+<p>Today I successfully added the show answers and play again on my trivia quiz. Both were surprisingly easier than I thought. So to challenge myself more, I decided to create difficulty levels but the play again loop and the difficulty loop don't like each other for some reason. Separately they work though. So that's been my main project today and will be tomorrow. New day, new eyes!</p>
