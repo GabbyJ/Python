@@ -33,3 +33,6 @@ Learning Python
 <p><strong><i>1:12 AM update (kind of tomorrow, but still today):</i></strong> I read through the first 20 pages of <i>Learn Python 3 the Hard Way</i>. It's quite funny. He talks directly to you and talks back to you because he knows the crazy stuff you're thinking already lol. It  definitely makes the books engaging. Excited to see what I get from it.</p>
 <p><strong>June 12, Wednesday</strong></p>
 <p>Today I successfully added the show answers and play again on my trivia quiz. Both were surprisingly easier than I thought. So to challenge myself more, I decided to create difficulty levels but the play again loop and the difficulty loop don't like each other for some reason. Separately they work though. So that's been my main project today and will be tomorrow. New day, new eyes!</p>
+<p><strong>June 13, Thursday</strong></p>
+<p>Welp, still stuck on this difficulty loop. I did discover that what I thought yesterday about the loop, isn't what's happening. So that was linear progress I guess... Still don't have a solution though, but there's always tomorrow</p>
+<p>Read another 20 pages of my Python book as well.</p>
