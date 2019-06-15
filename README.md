@@ -36,3 +36,7 @@ Learning Python
 <p><strong>June 13, Thursday</strong></p>
 <p>Welp, still stuck on this difficulty loop. I did discover that what I thought yesterday about the loop, isn't what's happening. So that was linear progress I guess... Still don't have a solution though, but there's always tomorrow</p>
 <p>Read another 20 pages of my Python book as well.</p>
+<p><strong>June 14, Friday</strong></p>
+<p>YAYYYYY!!!! I figured out the repeating loop situation! I found the pattern of what changed when I changed little parts of the code and figured out it was simply adding a break and removing an indent. Those dang indents lol. I feel the quiz is pretty complete. I've sent it to some friends to help me test, so we'll see what they come back with.</p>
+<p>This satisfying feeling of creating something from nothing is just great!</p>
+<p>Probably going to start something new tomorrow. Or work on improving one of my earlier basic projects. We'll see!</p>
