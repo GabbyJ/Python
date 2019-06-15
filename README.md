@@ -40,3 +40,4 @@ Learning Python
 <p>YAYYYYY!!!! I figured out the repeating loop situation! I found the pattern of what changed when I changed little parts of the code and figured out it was simply adding a break and removing an indent. Those dang indents lol. I feel the quiz is pretty complete. I've sent it to some friends to help me test, so we'll see what they come back with.</p>
 <p>This satisfying feeling of creating something from nothing is just great!</p>
 <p>Probably going to start something new tomorrow. Or work on improving one of my earlier basic projects. We'll see!</p>
+<p>Update: Added a blocking loop to not allow only blanks, spaces, or numbers. An answer must be given. NOW I think it's finished.</p>
