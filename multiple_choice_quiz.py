@@ -99,7 +99,7 @@ answer_options = [
         ["c", "titanic"],
         ["a", "bon jovi"],
         ["b", "bruno mars"],
-        ["b", "ludwig"],
+        ["a", "ludwig"],
         ["a", "little monsters"],
         ["c", "the greatest showman", "greatest showman"],
         ["b", "billy joel"],
@@ -168,11 +168,17 @@ def run_test(questions):
     for question in questions:
         print(question.prompt)
         answer = input("Your answer: ").lower()
-        if answer in answer_options[picked_level][count]:
-            score += 1
-            print("Correct!")
-        else:
-            print("Wrong. The answer was " + str(answer_options[picked_level][count][1]).title())
+        picked = True
+        while picked:
+            if answer in answer_options[picked_level][count]:
+                picked = False
+                score += 1
+                print("Correct!")
+            elif answer == "" or answer.isspace() or answer.isdigit():
+                answer = input("Please provide an answer: ")
+            else:
+                picked = False
+                print("Wrong. The answer was " + str(answer_options[picked_level][count][1]).title())
         count += 1
 
     def determine_grade(scores):
