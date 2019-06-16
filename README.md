@@ -40,3 +40,7 @@ Learning Python
 <p>YAYYYYY!!!! I figured out the repeating loop situation! I found the pattern of what changed when I changed little parts of the code and figured out it was simply adding a break and removing an indent. Those dang indents lol. I feel the quiz is pretty complete. I've sent it to some friends to help me test, so we'll see what they come back with.</p>
 <p>This satisfying feeling of creating something from nothing is just great! Probably going to start something new tomorrow. Or work on improving one of my earlier basic projects. We'll see!</p>
 <p>Update: Added a blocking loop to not allow only blanks, spaces, or numbers. An answer must be given. NOW I think it's finished.</p>
+<p><strong>June 15, Saturday</strong></p>
+<p><strong><em>2:42 AM(kind of tomorrow, but still today):</em></strong></p>
+<p>Welp... losing track of time, my visual streak is officially broken. BUT today in about 5.5 hrs I created hangman. Overall it's finished, but the only reason I didn't finish by midnight was because I decided to create the actual hangman images. Making them and figuring out how to add them in a loop is what I'm working on now. Will finish tomorrow.</p>
+<p>I'm very proud of my progress in python so far. Still sad about the visual streak though :(, but oh well</p>
