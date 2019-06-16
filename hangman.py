@@ -84,7 +84,7 @@ hangman_parts = [
 
 def hangman():
     secret_word = random.choice(["microsoft", "apple", "computer", "technology", "keyboard", "python", "javascript",
-                                 "coding", "hamburger", "community", "representative", "milkshake", "dancing", "house"
+                                 "coding", "hamburger", "community", "representative", "milkshake", "dancing", "house",
                                  "twister", "yellow", "orange", "basketball", "football", "creativity", "mother",
                                  "family", "human", "president", "hilarious"])
     special_characters = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "~", "+", "=", "_", "[", "]", "{", "}", "|",
