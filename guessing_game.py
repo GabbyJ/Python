@@ -1,4 +1,3 @@
-#Have multiple secret word options (random)
 #Give clues (unknown)
 secret_word = "giraffe"
 guess = ""
