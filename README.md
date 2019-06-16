@@ -40,7 +40,13 @@ Learning Python
 <p>YAYYYYY!!!! I figured out the repeating loop situation! I found the pattern of what changed when I changed little parts of the code and figured out it was simply adding a break and removing an indent. Those dang indents lol. I feel the quiz is pretty complete. I've sent it to some friends to help me test, so we'll see what they come back with.</p>
 <p>This satisfying feeling of creating something from nothing is just great! Probably going to start something new tomorrow. Or work on improving one of my earlier basic projects. We'll see!</p>
 <p>Update: Added a blocking loop to not allow only blanks, spaces, or numbers. An answer must be given. NOW I think it's finished.</p>
+<p><a href = "https://trinket.io/python/6ceaa5ece8?outputOnly=true" target="_blank">Play the Music Trivia Quiz here</a> </p>
 <p><strong>June 15, Saturday</strong></p>
 <p><strong><em>2:42 AM(kind of tomorrow, but still today):</em></strong></p>
-<p>Welp... losing track of time, my visual streak is officially broken. BUT today in about 5.5 hrs I created hangman. Overall it's finished, but the only reason I didn't finish by midnight was because I decided to create the actual hangman images. Making them and figuring out how to add them in a loop is what I'm working on now. Will finish tomorrow.</p>
+<p>Welp... losing track of time, my visual streak is officially broken. BUT today in about 5.5 hrs I created hangman without a tutorial. Overall it's finished, but the only reason I didn't finish by midnight was because I decided to create the actual hangman images. Making them and figuring out how to add them in a loop is what I'm working on now. Will finish tomorrow.</p>
 <p>I'm very proud of my progress in python so far. Still sad about the visual streak though :(, but oh well</p>
+<p><strong>June 16, Sunday</strong></p>
+<p>Finished my Hangman in 8 hours! Much quicker than the week it took to finish the Music Trivia Quiz. I'm very proud of my progress so far.</p>
+<p>Side note: The simpleness of Python is helping me understand Javascript concepts better. That's a win-win in my book!</p>
+<p>I'm waiting on feedback from family and peers, but I'm confident this game is good and fun! The words may be a bit too hard simply from longness, but we'll see. Also note that this isn't just a guess the word game that everyone seems to make. And some call their's hangman when it's just a basic guess the word too. Mine is a full on hangman. Googling around, I wasn't finding any examples of anyone doing this so that was good motivation to create it.</p>
+<p><a href = "https://trinket.io/python/1dbf3ceef6?outputOnly=true" target="_blank">Play Hangman here</a></p>
