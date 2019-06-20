@@ -57,5 +57,7 @@ Learning Python
 <p><strong>June 18, Tuesday</strong></p>
 <p>Still unsure of my direction, I started looking into Django. At least I'll be in the web field like I'm supposed to be instead of going deeper into gaming. I found what looks like a good tutorial, but realized that before I start Django I need more advanced Python concepts. So I backed up and found a tutorial that covers more advanced topics. I started working through that today. I should be able to finish it within a couple days hopefully then I can start Django!</p>
 <p>Oh and update... my hangman is officially unbreakable. All my programmer friends and family tried it and were very impressed they couldn't break it. They had fun too! I'm very proud of both those things!</p>
+<p><strong>June 19, Wednesday</strong></p>
+<p>Today was very busy and I didn't get a chance to do anything. I'll see if I have any renewed energy after I get home tonight... probably not though.</p>
 
 
