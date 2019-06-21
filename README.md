@@ -59,5 +59,5 @@ Learning Python
 <p>Oh and update... my hangman is officially unbreakable. All my programmer friends and family tried it and were very impressed they couldn't break it. They had fun too! I'm very proud of both those things!</p>
 <p><strong>June 19, Wednesday</strong></p>
 <p>Today was very busy and I didn't get a chance to do anything. I'll see if I have any renewed energy after I get home tonight... probably not though.</p>
-
-
+<p><strong>June 20, Thursday</strong></p>
+<p>Got some of my lesson in today. I obviously jinxed myself when I said, "I should be able to finish in a couple days if it's not busy"... well it got busy the day after I said this.</p><p>What little I've done these past two days, I'll make up for over the weekend.</p>
