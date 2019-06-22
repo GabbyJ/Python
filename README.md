@@ -61,3 +61,5 @@ Learning Python
 <p>Today was very busy and I didn't get a chance to do anything. I'll see if I have any renewed energy after I get home tonight... probably not though.</p>
 <p><strong>June 20, Thursday</strong></p>
 <p>Got some of my lesson in today. I obviously jinxed myself when I said, "I should be able to finish in a couple days if it's not busy"... well it got busy the day after I said this.</p><p>What little I've done these past two days, I'll make up for over the weekend.</p>
+<p><strong>June 21, Friday</strong></p>
+<p>Just got home, but working now into midnight on some lessons. Wanted my visual streak to continue because I AM doing this.</p>
