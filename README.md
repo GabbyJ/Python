@@ -63,3 +63,5 @@ Learning Python
 <p>Got some of my lesson in today. I obviously jinxed myself when I said, "I should be able to finish in a couple days if it's not busy"... well it got busy the day after I said this.</p><p>What little I've done these past two days, I'll make up for over the weekend.</p>
 <p><strong>June 21, Friday</strong></p>
 <p>Just got home, but working now into midnight on some lessons. Wanted my visual streak to continue because I AM doing this.</p>
+<p><strong>June 22, Saturday</strong></p>
+<p>Did more of the youtube video lessons on more advanced topics. Played around with modules today. Didn't get those the first time they were introduced to me, but I get them much better now. As of right now into midnight I'm discovering about how to use the underlying OS</p>
