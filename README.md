@@ -65,3 +65,5 @@ Learning Python
 <p>Just got home, but working now into midnight on some lessons. Wanted my visual streak to continue because I AM doing this.</p>
 <p><strong>June 22, Saturday</strong></p>
 <p>Did more of the youtube video lessons on more advanced topics. Played around with modules today. Didn't get those the first time they were introduced to me, but I get them much better now. As of right now into midnight I'm discovering about how to use the underlying OS</p>
+<p><strong>June 23, Sunday</strong></p>
+<p>Today I learned more about the OS Module capabilities and how to read and write to files</p><p>Writing it out, it doesn't seem like much, but I spent a good few hours on these topics trying to get comfortable with them.</p>
