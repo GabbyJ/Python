@@ -67,5 +67,8 @@ Learning Python
 <p>Did more of the youtube video lessons on more advanced topics. Played around with modules today. Didn't get those the first time they were introduced to me, but I get them much better now. As of right now into midnight I'm discovering about how to use the underlying OS</p>
 <p><strong>June 23, Sunday</strong></p>
 <p>Today I learned more about the OS Module capabilities and how to read and write to files</p><p>Writing it out, it doesn't seem like much, but I spent a good few hours on these topics trying to get comfortable with them.</p>
-<p>1:24 am</p>
+<p><strong><em>1:24 AM(kind of tomorrow, but still today):</em></strong></p>
 <p>Doing a video to check my Python setup, I FINALLY discovered where my pip was. Everyone/thing kept saying it's already installed with python, but I always got 'file not found' whenever I typed it. It was a big issue that I tried avoiding but knew I couldn't forever. I found out that it was under pip3! I learned how to alias stuff as well in the terminal so I aliased python=python3 and pip=pip3. Now I can just type python and pip and get 3.6 and pip info instead of 2.6 and not found. That little 3 in pip made me so happy to discover I didn't have a bad python download or something lol.</p>
+<p><strong>June 24, Monday</strong></p>
+<p>Did more videos and the topics today were parsing and renaming files and CSVs. Also did the datetime module.</p>
+<p>Could've done more, but I was tasked with working on a logo that I forgot about today. But hey, when it's free and for family, it's not on the top of your list and you forget ¯\_(ツ)_/¯.</p>
