@@ -72,3 +72,6 @@ Learning Python
 <p><strong>June 24, Monday</strong></p>
 <p>Did more videos and the topics today were parsing and renaming files and CSVs. Also did the datetime module.</p>
 <p>Could've done more, but I was tasked with working on a logo that I forgot about today. But hey, when it's free and for family, it's not on the top of your list and you forget ¯\_(ツ)_/¯.</p>
+<p><strong>June 25, Tuesday</strong></p>
+<p>Today I learned about variable scopes. I stumbled across global variables during the quiz game, but I figured I should actually learn them so I know and not just guess. So I now know LEGB. Like PEMDA, but for varibales. I also refreshed on sorting and learned about the lambda function and a sorting module. I properly learned try/except today. I stumbled across this at some point, but don't remember when. Could be good for catching errors.</p>
+<p>I feel like I have enough concepts under my belt, that I will now start Django tomorrow. Really excited!</p>
