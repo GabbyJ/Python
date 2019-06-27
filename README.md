@@ -75,3 +75,6 @@ Learning Python
 <p><strong>June 25, Tuesday</strong></p>
 <p>Today I learned about variable scopes. I stumbled across global variables during the quiz game, but I figured I should actually learn them so I know and not just guess. So I now know LEGB. Like PEMDA, but for varibales. I also refreshed on sorting and learned about the lambda function and a sorting module. I properly learned try/except today. I stumbled across this at some point, but don't remember when. Could be good for catching errors.</p>
 <p>I feel like I have enough concepts under my belt, that I will now start Django tomorrow. Really excited!</p>
+<p><strong>June 26, Wednesday</strong></p>
+<p>Ok, so I'm guilty here... started the Django video, then saw a related video for Web Scraping. I click ed it and that's what I focused on today. Unfortunately I'm having import issues that I'm trying to figure out. Everything is successfully installed, but it doesn't work in my code. Beautiful Soup 4, requests, bs4, nothing. A lot of googling today. At this point, I don't want to even start Django until I figure out this install, import issue. If web scraping doesn't work, Django most likely won't work either.</p>
+<p>I also did more with that logo I was supposed to be working on. Close. </p>
