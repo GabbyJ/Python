@@ -78,3 +78,5 @@ Learning Python
 <p><strong>June 26, Wednesday</strong></p>
 <p>Ok, so I'm guilty here... started the Django video, then saw a related video for Web Scraping. I click ed it and that's what I focused on today. Unfortunately I'm having import issues that I'm trying to figure out. Everything is successfully installed, but it doesn't work in my code. Beautiful Soup 4, requests, bs4, nothing. A lot of googling today. At this point, I don't want to even start Django until I figure out this install, import issue. If web scraping doesn't work, Django most likely won't work either.</p>
 <p>I also did more with that logo I was supposed to be working on. Close. </p>
+<p><strong>June 27, Thursday</strong></p>
+<p>Still stuck on this import issue. Tried a couple other work arounds, but didn't work.</p>
