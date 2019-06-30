@@ -82,3 +82,6 @@ Learning Python
 <p>Still stuck on this import issue. Tried a couple other work arounds, but didn't work.</p>
 <p><strong>June 28, Friday</strong></p>
 <p>Finally figured out the import issue! First I needed to import bs4, which I thought I did because I saw a folder with it, but apparently that wasn't it. Then I didn't understand the whole virtual environment thing, so I didn't realize I needed to install it into the virtual environment as well. Once I did those two things, it worked! With that, I learned web scraping today! It's very interesting and I can see alot of possibilities with it. Python keeps getting more interesting and powerful. Now TOMORROW, I shall start Django. Promise.
+ <p><strong>June 29, Saturday</strong></p>
+ <p>So... (o_o  )(  o_o)... I didn't start Django. I played around with web scraping again today and worked on that free family logo I mentioned a few days ago. But as we speak, I'm starting the Django tutorial. So I did start it today technically and will go deep in tomorrow.</p>
+ <p>A little warning that my curiosity might take me into APIs at some point too. See what those are all about.</p>
