@@ -85,3 +85,6 @@ Learning Python
  <p><strong>June 29, Saturday</strong></p>
  <p>So... (o_o  )(  o_o)... I didn't start Django. I played around with web scraping again today and worked on that free family logo I mentioned a few days ago. But as we speak, I'm starting the Django tutorial. So I did start it today technically and will go deep in tomorrow.</p>
  <p>A little warning that my curiosity might take me into APIs at some point too. See what those are all about.</p>
+<p><strong><em>2:34 AM(kind of tomorrow, but still today):</em></strong></p>
+<p>Officially got about an hour into a Django tutorial. There is quite a lot to process at first. The set up is a lot. I walked through what each item in setting.py means. I've seen my site and admin on the local server. I've created a user, created a class in models.py and have gotten up to creating an new app and seeing it on the front end admin.</p>
+<p>I believe tomorrow will get into custom homepages and django templates.</p>
