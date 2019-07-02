@@ -88,3 +88,5 @@ Learning Python
 <p><strong><em>2:34 AM(kind of tomorrow, but still today):</em></strong></p>
 <p>Officially got about an hour into a Django tutorial. There is quite a lot to process at first. The set up is a lot. I walked through what each item in setting.py means. I've seen my site and admin on the local server. I've created a user, created a class in models.py and have gotten up to creating an new app and seeing it on the front end admin.</p>
 <p>I believe tomorrow will get into custom homepages and django templates.</p>
+<p><strong>June 31, Monday</strong></p>
+<p>Continued the django video today. Covered custom homepages, URL routing and requests, and Django templates. There's more into this than I would've ever guessed, but I can see it getting easier with repetition.</p>
