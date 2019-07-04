@@ -92,3 +92,7 @@ Learning Python
 <p>Continued the django video today. Covered custom homepages, URL routing and requests, and Django templates. There's more into this than I would've ever guessed, but I can see it getting easier with repetition.</p>
 <p><strong>July 2, Tuesday</strong></p>
 <p>Busy morning, busy at work, busy night. Gonna be an all nighter possibly. No coding today :(</p>
+<p><strong>July 3, Wednesday</strong></p>
+<p>Got a bit of a lesson in today. We are still on templates. Template tags, for loops, and rendering context.</p>
+<p>Heading on a weekedn 4th of July trip, so will try to get some coding in, but we'll see...</p>
+<p>Happy 4th of July!</p>
