@@ -96,3 +96,5 @@ Learning Python
 <p>Got a bit of a lesson in today. We are still on templates. Template tags, for loops, and rendering context.</p>
 <p>Heading on a weekedn 4th of July trip, so will try to get some coding in, but we'll see...</p>
 <p>Happy 4th of July!</p>
+<p><strong>July 4, Thursday</strong></p>
+<p>Happy 4th of July! On vacation. Traveling a lot. No coding</p>
