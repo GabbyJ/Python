@@ -100,3 +100,5 @@ Learning Python
 <p>Happy 4th of July! On vacation. Traveling a lot. No coding</p>
 <p><strong>July 5, Friday</strong></p>
 <p>Vacation!</p>
+<p><strong>July 6, Saturday</strong></p>
+<p>Last day of vacation.</p>
