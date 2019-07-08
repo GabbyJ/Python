@@ -102,3 +102,5 @@ Learning Python
 <p>Vacation!</p>
 <p><strong>July 6, Saturday</strong></p>
 <p>Last day of vacation.</p>
+<p><strong>July 7, Sunday</strong></p>
+<p>Back from vacation.</p>
