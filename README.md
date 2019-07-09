@@ -104,3 +104,6 @@ Learning Python
 <p>Last day of vacation.</p>
 <p><strong>July 7, Sunday</strong></p>
 <p>Back from vacation.</p>
+<p><strong>July 8, Monday</strong></p>
+<p>Back to work! Reviewed what I already learned to make sure I didn't forget anything.</p>
+
