@@ -108,4 +108,6 @@ Learning Python
 <p>Back to work! Reviewed what I already learned to make sure I didn't forget anything.</p>
 <p><strong>July 9, Tuesday</strong></p>
 <p>Way too busy today.</p>
+<p><strong>July 10, Wednesday</strong></p>
+<p>Continued reviewing what I already did. There's a lot to process in this setup of it all.</p>
 
