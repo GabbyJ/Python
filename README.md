@@ -112,3 +112,5 @@ Learning Python
 <p>Continued reviewing what I already did. There's a lot to process in this setup of it all.</p>
 <p><strong>July 12, Friday</strong></p>
 <p>Surprise to me! Someone wanted to see my hangman game I made weeks ago and I stumbled upon a bug. I’m quite dumbfounded how it exists because I know for a fact that people tested the now bug, but I have no evidence of ever having different code. So working on finding that bug now.</p>
+<p><strong>August 12, Monday</strong></p>
+<p>Randomly started a budget program today. Got a good start on it. So far you can enter however many incomes you have and they will be added together for a total income. You can also enter your expenses as their listed, but can't get a total yet. Tomorrow I will make it so people can add their own expense items then add the expenses, then do the math.
