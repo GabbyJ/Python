@@ -1,35 +1,14 @@
 '''BUDGET CALCULATOR'''
 
 '''
-BUDGET LIST:
-Income
-Expenses
-    Rent
-    Utilities
-    Electric
-    Car
-    Gas
-    Insurance
-    Credit Cards
-    Internet
-    Cable
-    Phone
-    Groceries
-    Eat out
-    Clothes
-    Extras (allow to add own)
-Left for month
-'''
-
-'''
 TO DO:
-Input income
-    store income
-Input expenses
-    store expenses
+Input income √
+    store income √
+Input expenses √
+    store expenses √
 Ask for extras
     store extras
-subtract expenses + extras from income
+subtract expenses + extras from income √
 return percent of income left
 
 '''
@@ -38,7 +17,8 @@ expenses = []
 expense_items = ["Rent", "Utilities", "Electric", "Car", "Gas", "Insurance", "Credit Card Debt", "Internet", "Cable",
                  "Phone", "Groceries", "Eat Out", "Clothes", "Extra"]
 extras = []
-total = 0
+total_income = 0
+total_expenses = 0
 
 
 
@@ -64,10 +44,10 @@ def budget():
             add_more = False
             print(incomes)
             for i in range(0, len(incomes)):
-                global total
-                total = total + int(incomes[i])
-            print("$" + str(total) + " is your monthly income.")
-            input("Press Enter to start entering expenses... ")
+                global total_income
+                total_income = total_income + float(incomes[i])
+            print("$" + str('{:,.2f}'.format(total_income)) + " is your monthly income.")
+            input("\nPress Enter to start entering expenses... ")
         else:
             print("\nYes or no.")
             add_more = True
@@ -79,10 +59,20 @@ def budget():
         expense = input(i + ": ")
         expenses.append(expense)
     print(expenses)
+    for i in range(0, len(expenses)):
+        global total_expenses
+        total_expenses = total_expenses + float(expenses[i])
+    print("$" + str('{:,.2f}'.format(total_expenses)) + " is your monthly expenses.")
+    pass
+
+    #Add all together
+    print("You have $" + str('{:,.2f}'.format(total_income - total_expenses)) + " left for the month and you have used")
+    if (total_income - total_expenses) >= 100:
+        print("You should add some to a savings!")
+    else:
+        print("You may need to cut back on some expenses.")
 
 ### OPTION FOR EXTRA EXPENSES
-### ADD EXPENSES TOGETHER
+### CENTS ISN'T WORKING
 
 budget()
-
-
